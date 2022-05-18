@@ -31,4 +31,4 @@ GEMSx003.1 or equivalent
     ```
 
 ## Class and Exercises
-In your JupyterLab environment, open the newly cloned directory `GEMS-Learning-R-Geospatial-Intro` and then open `x003_Module1_Intro.ipynb` to follow along for in-class exercises 
+In your JupyterLab environment, open the newly cloned directory `GEMS-Learning-R-Geospatial-Vectors` and then open `x003_Module1_Vectors.ipynb` to follow along for in-class exercises 
